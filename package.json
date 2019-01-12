@@ -1,0 +1,26 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "description": "asteroids game",
+  "main": "asteroids.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronshivers/asteroids.git"
+  },
+  "keywords": [
+    "asteroids",
+    "game"
+  ],
+  "author": "aaron shivers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronshivers/asteroids/issues"
+  },
+  "homepage": "https://github.com/aaronshivers/asteroids#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
