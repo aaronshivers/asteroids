@@ -4,7 +4,7 @@
   "description": "asteroids game",
   "main": "asteroids.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "asteroids.js"
   },
   "repository": {
     "type": "git",
